@@ -1,0 +1,15 @@
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+db.sqlite3
+*.log
+# Docker
+docker-compose.yml
+Dockerfile 
+# VSCode
+.vscode/
+
